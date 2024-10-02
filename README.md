@@ -104,6 +104,4 @@ the commented code can be used as reference.
 # Conclusion
 This project has helped us strengthen all our core concepts of the Linux operating system including
 multiprocessing, multithreading, scheduling and synchronization. It has made us confident about 
-being able to work on any operating systems programming task/project in the future. As our field is 
-cyber security, the Linux operating system is very important for us to learn and this project helped us 
-to do exactly that.
+being able to work on any operating systems programming task/project in the future. 
